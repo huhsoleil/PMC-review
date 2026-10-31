@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <title>PMC-review icon</title>
+  <rect width="512" height="512" rx="96" fill="#F07A1A"/>
+  <!-- manuscript page -->
+  <path d="M120 84 h196 l76 76 v268 a20 20 0 0 1 -20 20 h-252 a20 20 0 0 1 -20 -20 v-324 a20 20 0 0 1 20 -20 z" fill="#FFFFFF"/>
+  <path d="M316 84 v56 a20 20 0 0 0 20 20 h56 z" fill="#FBD3B0"/>
+  <!-- text lines -->
+  <g fill="#F7B27A">
+    <rect x="148" y="150" width="130" height="16" rx="8"/>
+    <rect x="148" y="190" width="196" height="16" rx="8"/>
+    <rect x="148" y="230" width="196" height="16" rx="8"/>
+    <rect x="148" y="270" width="150" height="16" rx="8"/>
+  </g>
+  <!-- magnifying glass -->
+  <line x1="352" y1="388" x2="420" y2="456" stroke="#7A3A07" stroke-width="34" stroke-linecap="round"/>
+  <circle cx="290" cy="326" r="86" fill="#FFFFFF" stroke="#7A3A07" stroke-width="26"/>
+  <!-- check mark -->
+  <polyline points="246,328 280,362 338,296" fill="none" stroke="#F07A1A" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

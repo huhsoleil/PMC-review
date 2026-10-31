@@ -1,7 +1,7 @@
 {
   "name": "pmc-review",
   "displayName": "PMC Review",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pre-screens a journal's website and individual manuscripts against PubMed Central (PMC) indexing review criteria and reporting guidelines, and produces a prioritized markdown report with improvement recommendations.",
   "author": {
     "name": "Sun Huh",
@@ -11,5 +11,15 @@
   "homepage": "https://github.com/huhsoleil/PMC-review",
   "repository": "https://github.com/huhsoleil/PMC-review",
   "license": "CC-BY-4.0",
-  "keywords": ["pubmed-central", "pmc", "journal-indexing", "peer-review", "reporting-guidelines", "scholarly-publishing", "medical-journal", "editor"]
+  "keywords": [
+    "pubmed-central",
+    "pmc",
+    "journal-indexing",
+    "peer-review",
+    "reporting-guidelines",
+    "scholarly-publishing",
+    "medical-journal",
+    "editor"
+  ],
+  "icon": "./assets/icon.png"
 }

@@ -1,5 +1,7 @@
 # PMC-review
 
+![PMC-review icon](assets/icon.png)
+
 An Agent Skill that pre-screens a journal's website and individual manuscripts from the standpoint of PubMed Central (PMC) indexing review.
 
 ## What it does
