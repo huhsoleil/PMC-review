@@ -1,0 +1,22 @@
+{
+  "name": "huhsoleil-pmc-review",
+  "owner": {
+    "name": "Sun Huh",
+    "email": "huhsoleil@gmail.com"
+  },
+  "metadata": {
+    "description": "Sun Huh's PMC-review plugin for journal editors"
+  },
+  "plugins": [
+    {
+      "name": "pmc-review",
+      "source": "./",
+      "description": "Pre-screens journals and manuscripts against PubMed Central (PMC) indexing review criteria and reporting guidelines.",
+      "version": "1.0.0",
+      "author": { "name": "Sun Huh" },
+      "license": "CC-BY-4.0",
+      "category": "productivity",
+      "keywords": ["pubmed-central", "pmc", "journal-indexing", "reporting-guidelines"]
+    }
+  ]
+}

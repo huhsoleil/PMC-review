@@ -32,6 +32,12 @@ skills/pmc-review/
 
 ## Installation
 
+- **Claude Code (plugin)**:
+
+  ```
+  /plugin install pmc-review --marketplace huhsoleil/PMC-review
+  ```
+
 - **Any agent (via [skills.sh](https://skills.sh))**:
 
   ```bash
@@ -44,6 +50,10 @@ skills/pmc-review/
 ## Usage
 
 Ask, for example: "Review this journal's website and these three manuscripts for a PMC application," and supply the journal URL and manuscript files.
+
+## What the skill runs and fetches
+
+The skill contains only instructions and reference text; it bundles no scripts, hooks, or MCP servers. When used, it asks the agent to read the journal website and manuscripts the user supplies and to look up cited DOIs (for example, via doi.org or Crossref) to verify references. It sends no data anywhere else.
 
 ## Disclaimer
 
