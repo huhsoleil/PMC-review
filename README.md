@@ -14,7 +14,7 @@ An Agent Skill that pre-screens a journal's website and individual manuscripts f
 ## Structure
 
 ```
-pmc-review/
+skills/pmc-review/
 ├── SKILL.md
 └── references/
     ├── application_guideline.md          # NLM/PMC review criteria
@@ -32,8 +32,14 @@ pmc-review/
 
 ## Installation
 
-- **Claude Code**: copy the `pmc-review` folder to `~/.claude/skills/` (personal) or `.claude/skills/` (project).
-- **Claude.ai**: zip the `pmc-review` folder and upload it under Settings → Capabilities → Skills.
+- **Any agent (via [skills.sh](https://skills.sh))**:
+
+  ```bash
+  npx skills add huhsoleil/PMC-review
+  ```
+
+- **Claude Code (manual)**: copy the `skills/pmc-review` folder to `~/.claude/skills/` (personal) or `.claude/skills/` (project).
+- **Claude.ai**: zip the `skills/pmc-review` folder and upload it under Settings → Capabilities → Skills.
 
 ## Usage
 
@@ -47,7 +53,7 @@ The likelihood estimate is a qualitative judgment based on similarity to known r
 
 This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). See [LICENSE](LICENSE).
 
-The reporting-guideline checklists in `pmc-review/references/` (ARRIVE, CARE, CONSORT, COREQ, PRISMA, STARD, TREND) are adapted from their original publications and remain subject to the terms set by their respective authors and publishers. Please cite the original guideline when using them.
+The reporting-guideline checklists in `skills/pmc-review/references/` (ARRIVE, CARE, CONSORT, COREQ, PRISMA, STARD, TREND) are adapted from their original publications and remain subject to the terms set by their respective authors and publishers. Please cite the original guideline when using them.
 
 ## Citation
 
