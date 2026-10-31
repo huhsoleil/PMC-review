@@ -1,0 +1,75 @@
+Common Reasons for Rejection (1) – Policy  
+- Regional scope does not align with the authors or content of the paper.  
+- Although the journal claims to have a unique niche specialized in Asia, in reality, many papers do not focus on a specific geographic or regional scope.  
+- Insufficient description of each publication type.  
+- Lack of diversity in publication types.  
+- Funding information is not provided for all papers.  
+- Case reports lack informed consent.  
+- No mention of adherence to international guidelines (Best practice, ICMJE recommendations).  
+- Excessive number of papers authored by editorial board members.  
+- No disclosure of conflicts of interest (COI) for editorial board members’ papers.  
+- No regulations regarding peer review of editorial board members’ manuscripts.  
+- Lack of author diversity.  
+- Peer review guidelines do not mention plagiarism checks.  
+- No mention of peer review methods such as single blind, double blind, or open review.  
+- Publication takes more than one year after submission, which is too long.  
+- Article processing charges are not disclosed.  
+- Some case reports or clinical trial papers lack informed consent, violating research publication ethics.  
+- No statement indicating compliance with the Principles of Transparency and Best Practice in Scholarly Publishing, 3rd version.  
+- Editors and editorial board members author many papers.  
+- Procedure states “approved by the Animal Experimentation Committee,” but does not specify the exact institution or review board that conducted the review.  
+- The target readership is not described.  
+- Source of research funding (grant support information) is missing; if none, it should be explicitly stated.  
+- During journal indexing review, compliance with guidelines and best practices issued by professional organizations is checked. This includes the ICMJE Recommendations for the Conduct, Reporting, Editing, and Publication of Scholarly Work in Medical Journals [http://www.icmje.org/icmje-recommendations.pdf] and the Principles of Transparency and Best Practice in Scholarly Publishing jointly presented by COPE, DOAJ, WAME, and OASPA [http://doaj.org/bestpractice].
+
+Common Reasons for Rejection (2) – Lack of Scientific Quality  
+- The quality of papers is inconsistent with large variability.  
+- Some papers are of low and uneven quality.  
+- Abstracts often lack sufficient detailed information to adequately explain the paper’s content as recommended by ICMJE adequately.  
+- Titles do not properly reflect the content.  
+- Research objectives and hypotheses need to be presented more clearly and explicitly.  
+- Recommended reporting guidelines according to study design were not followed.  
+- Inadequate theoretical basis provided for research objectives and design.  
+- Weak research design.  
+- Inconsistency in study design: described as “prospective study” in the main text but “retrospective study” in the ethics approval section.  
+- Methodology is not detailed enough to allow reproducibility.  
+- Hypotheses are not clearly defined relative to the objectives.  
+- Insufficient explanation of sample size estimation.  
+- No explanation of the rationale for variable selection.  
+- No validity explanation for survey instruments and design.  
+- Statistical analysis is insufficient.  
+- Case reports are not written according to CARE guidelines.  
+- Lack of systematic reviews, meta-analyses, and randomized controlled trials.  
+- Some review articles are not critical or comprehensive.  
+- Discussion sections lack critical depth and comprehensiveness.  
+- Data do not support conclusions and are exaggerated.  
+- Conclusions are overly generalized.  
+- Statements are presented without appropriate citations (e.g., missing or inappropriate references).  
+- References lack recent peer-reviewed literature.  
+- Poor clarity in expression due to grammar, vocabulary, typos, and logical flow, making the paper difficult to read and understand.  
+- Discussion sections are insufficiently critical or comprehensive, failing to address limitations and relationships to prior research adequately.
+
+Common Reasons for Rejection (3) – Editing and Publishing  
+- Low editorial quality.  
+- Duplicate presentation of the same data in text, tables, and figures.  
+- Repetition of table content in the main text.  
+- Redundant data presentation between text and tables/figures.  
+- Errors in tables and figures.  
+- Grammar errors and typos.  
+- Lack of clarity in writing due to grammar, vocabulary, typos, and logical flow, making content difficult to understand.  
+- Unnecessary use of abbreviations that are defined but never used again.  
+- Illogical English and grammatical errors.  
+- Insufficient description of editorial board qualifications.  
+- Incomplete ORCID information.  
+- Website content is inadequate.  
+- Broken links on the website.  
+- No description of publishing credentials.  
+- No description of the management team.  
+- Editorial board members’ affiliations and specialties are not described in detail.  
+- Inconsistent style and formatting.  
+- Excessive self-citation.  
+- A disproportionately high percentage of papers authored by a specific author.  
+- Reporting p-values as P=0.000.  
+- Sentences presented without appropriate literature citations.  
+- Overall expression quality (grammar, vocabulary, logical flow) needs improvement to help readers easily understand the content.
+
