@@ -43,6 +43,16 @@ Ask, for example: "Review this journal's website and these three manuscripts for
 
 The likelihood estimate is a qualitative judgment based on similarity to known rejected cases, not a validated statistical prediction. The final decision rests with NLM.
 
+## License
+
+This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). See [LICENSE](LICENSE).
+
+The reporting-guideline checklists in `pmc-review/references/` (ARRIVE, CARE, CONSORT, COREQ, PRISMA, STARD, TREND) are adapted from their original publications and remain subject to the terms set by their respective authors and publishers. Please cite the original guideline when using them.
+
+## Citation
+
+Huh S. PMC-review: an Agent Skill for pre-screening journals and manuscripts for PubMed Central indexing [software]. 2026. Available from: https://github.com/huhsoleil/PMC-review
+
 ## Author
 
 Sun Huh, Hallym University College of Medicine
